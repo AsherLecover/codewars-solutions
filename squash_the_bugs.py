@@ -6,4 +6,3 @@ def find_longest(string):
             max_len = len(i)
             longest = len(i)
     return longest
-print(find_longest("Arsene Ishikawa Mine Fujiko Nix Goemon Fujiko Daisuke Koichi III Da Da Lupin Vinci Da"))
